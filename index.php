@@ -34,7 +34,7 @@ if(isset($update->message)){
 
 ▪️now send me a <b>message</b> and i will convert it :)
 
-▪️also you can <a href="https://telegram.me/pp2007ws">Contact Me !</a>',
+▪️also you can <a href="https://telegram.me/A_D_m_i_n_b_O_t s">Contact Me !</a>',
             'parse_mode'=>'HTML',
             'disable_web_page_preview'=>true
         ]);
